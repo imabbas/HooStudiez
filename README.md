@@ -1,7 +1,3 @@
-# final-project-final-abbasdhillon
-final-project-final-abbasdhillon created by GitHub Classroom
-
-Milestone: 
 
 Progress:
      (Major Feature) For the milestone, our app consists of a tab bar that allows the user to navigate to classes, assignments, and settings
